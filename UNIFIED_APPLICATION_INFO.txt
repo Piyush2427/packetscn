@@ -1,0 +1,18 @@
+UNIFIED IDS - ONE APP, FOUR TABS
+
+File: ids_unified_both_modes.py
+
+Tabs:
+1. 📊 Manual Analysis
+2. 📁 Batch Processing  
+3. ⚡ Real-Time Monitor
+4. ⚠️ Results & Alerts
+
+Features:
+✓ All statistics updated in real-time
+✓ All alerts logged together
+✓ Switch between modes instantly
+✓ One interface for everything
+✓ Professional appearance
+
+Ready for submission!

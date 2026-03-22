@@ -1,0 +1,6 @@
+@echo off
+echo Installing dependencies...
+pip install -r requirements.txt
+echo Running Unified IDS...
+python ids_unified_both_modes.py
+pause

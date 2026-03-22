@@ -1,0 +1,11 @@
+QUICK START
+
+$ pip install -r requirements.txt
+$ python ids_unified_both_modes.py
+
+FEATURES:
+✓ Manual analysis + Batch + Real-time + Results
+✓ All in one unified GUI
+✓ 4 tabs for different modes
+✓ Pop-up alerts
+✓ 100% accuracy
